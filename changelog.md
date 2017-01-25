@@ -11,15 +11,13 @@ Release Date: Jan 25, 2017
 ## New Components
 
 -   controllers
--   views
--   finish static to trivial website conversion: copy system, public, and application folder
 
     
 ## Updated Components
 
 -   controllers
 
-    -   add Welcome, About, Gallery controllers under application/controllers folder
+    -   german (CD)
     -   hindi (CD)
 
 -   models
@@ -28,7 +26,7 @@ Release Date: Jan 25, 2017
 
 -   views
 
-    -   add welcome, about, gallery views under application/views folder
+    -   slovenian (AB)
     -   swedish
 
 
