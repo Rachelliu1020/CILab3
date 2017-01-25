@@ -20,15 +20,15 @@ Release Date: Jan 25, 2017
 -   controllers
 
     -   add Welcome, About, Gallery controllers under application/controllers folder
-    -   hindi (CD)
+    -   Edit welcome controller (Lei)
 
 -   models
 
-    -   italian (AB)
+    -   null
 
 -   views
 
     -   add welcome, about, gallery views under application/views folder
-    -   swedish
+    -   Edit view template (Lei)
 
 
